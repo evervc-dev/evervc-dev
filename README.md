@@ -10,7 +10,7 @@
   <div align=center>
       <img src="https://readme-typing-svg.herokuapp.com/?color=02D9F7FF&size=35&center=true&vCenter=true&width=1000&lines=Hi+there+I'm+Ever-VC+%F0%9F%91%8B;Computer+Systems+Engineering+Student;Welcome!" alt="Headline" />
     <p align="center">
-       href="https://github.com/evervc-dev/" align="center" ><img align="center"  alt="" src="https://visitor-badge.laobi.icu/badge?page_id=evervc-dev.evervc-dev"></a>
+      <a href="https://github.com/evervc-dev/" align="center" ><img align="center"  alt="" src="https://visitor-badge.laobi.icu/badge?page_id=evervc-dev.evervc-dev"></a>
     </p>
   </div>
   <br>
