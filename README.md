@@ -10,7 +10,7 @@
   <div align=center>
       <img src="https://readme-typing-svg.herokuapp.com/?color=02D9F7FF&size=35&center=true&vCenter=true&width=1000&lines=Hi+there+I'm+Ever-VC+%F0%9F%91%8B;Computer+Systems+Engineering+Student;Welcome!" alt="Headline" />
     <p align="center">
-      <a href="https://github.com/evervc-dev/" align="center" ><img align="center"  alt="" src="https://visitor-badge.laobi.icu/badge?page_id=evervc-dev.evervc-dev"></a>
+       href="https://github.com/evervc-dev/" align="center" ><img align="center"  alt="" src="https://visitor-badge.laobi.icu/badge?page_id=evervc-dev.evervc-dev"></a>
     </p>
   </div>
   <br>
@@ -135,10 +135,14 @@
          <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats</b></i><img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>
         </p>
         <br>
-        <div align="center">  
-          <img width="49%" height="195px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=evervc-dev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/> 
-          <img width="41%" height="195px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=evervc-dev&layout=compact&langs_count=8&theme=algolia"/>
-        </div>
+        <p align="center">
+          <a href="https://github.com/evervc-dev">
+            <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=evervc-dev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+          </a>
+          <a href="https://github.com/evervc-dev">
+            <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=evervc-dev&layout=compact&langs_count=8&theme=algolia"/>
+          </a>
+        </p>
         <br>
         <br>  
   <p align="center">
@@ -154,7 +158,7 @@
         <p>Loading</p>
   </div>
   <p align="center">
-    <a href="https://github.com/evervc-dev/">
+     <a href="https://github.com/evervc-dev/">
       <img width="40%" height="195px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=evervc-dev&theme=tokyonight"
       alt="evervc-dev :: Top Langs by repo" />
       <img width="40%" height="195px" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=evervc-dev&theme=tokyonight"
